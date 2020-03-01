@@ -1,0 +1,32 @@
+*::before, *::after, html {
+	-webkit-box-sizing: border-box;
+			box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font: 1em "Calibri";
+	color: #242424;
+}
+
+.container {
+	max-width: 1140px;
+	width: 100%;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin: 0 auto;
+}
+
+<<<<<<< HEAD
+h1 {
+	color: #39db7f;
+}
+
+p {
+	color: #39dbf7;
+=======
+h1, h2, h3, h4, h5, h6 {
+	color: cyan;
+>>>>>>> user
+}
